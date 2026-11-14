@@ -35,7 +35,7 @@ reshis_avia_app/
 ├── index.html                                 # Frontend (интерфейс в тёмной теме + график на Canvas)
 ├── Demidov_Artem_Andreevich_my_forecast.csv   # Таблица квантильных прогнозов спроса
 ├── requirements.txt                           # Список Python-зависимостей для сборки
-├── runtime.txt                                # Фиксация версии Python для хостинга
+├── .python-version                            # Фиксация версии Python для хостинга
 └── README.md                                  # Документация проекта
 ```
 
