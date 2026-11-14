@@ -34,6 +34,7 @@ reshis_avia_app/
 ├── main.py                                    # Backend API (FastAPI + SQLite + расчёт спроса)
 ├── index.html                                 # Frontend (интерфейс в тёмной теме + график на Canvas)
 ├── Demidov_Artem_Andreevich_my_forecast.csv   # Таблица квантильных прогнозов спроса
+├── routes.csv                                 # Справочник маршрутов (базовые цены и эластичность)
 ├── requirements.txt                           # Список Python-зависимостей для сборки
 ├── .python-version                            # Фиксация версии Python для хостинга
 └── README.md                                  # Документация проекта
